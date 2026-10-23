@@ -1,20 +1,19 @@
-# Hi, I'm Titi 👋
+# Hey, I'm Titi 👋
 
-💻 **Full-Stack Developer** · 🌱 Curious by nature
+💻 Full-Stack Developer · 🇫🇷 France
 
-I enjoy building applications, exploring new technologies and discovering different ways to solve problems.
+Curious by nature, I enjoy exploring different technologies and building things across web and mobile.
 
-### 🛠️ Tech Stack
+### ⚡ Technologies
 
-- **Frontend:** Angular · Vue.js · React
-- **Backend:** NestJS · Java · Spring Boot
-- **Mobile:** Flutter
-- **Explored:** Rust · Kotlin · Jetpack Compose · SwiftUI · C# · C++
+**Web:** Angular · Vue.js · React · NestJS · Java · Spring Boot
+
+**Mobile:** Flutter
+
+**Exploring:** Rust · Kotlin · SwiftUI · C# · C++
 
 ### 🚀 Currently building
 
-[**Brocount**](https://github.com/TitiBond/brocount) — A personal project combining web, backend and mobile development.
-
----
+[Brocount](https://github.com/TitiBond/brocount)
 
 *Stay curious. Keep exploring.*
