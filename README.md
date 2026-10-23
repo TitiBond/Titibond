@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Titi 👋
 
-<!--
-**TitiBond/Titibond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer** · 🌱 Curious by nature
 
-Here are some ideas to get you started:
+I enjoy building applications, exploring new technologies and discovering different ways to solve problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Frontend:** Angular · Vue.js · React
+- **Backend:** NestJS · Java · Spring Boot
+- **Mobile:** Flutter
+- **Explored:** Rust · Kotlin · Jetpack Compose · SwiftUI · C# · C++
+
+### 🚀 Currently building
+
+[**Brocount**](https://github.com/TitiBond/brocount) — A personal project combining web, backend and mobile development.
+
+---
+
+*Stay curious. Keep exploring.*
